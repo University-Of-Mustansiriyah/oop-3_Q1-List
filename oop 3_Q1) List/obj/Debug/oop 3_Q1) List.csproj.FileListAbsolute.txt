@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\bin\Debug\oop 3_Q1) List.exe.config
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\bin\Debug\oop 3_Q1) List.exe
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\bin\Debug\oop 3_Q1) List.pdb
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\obj\Debug\oop 3_Q1) List.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\obj\Debug\oop 3_Q1) List.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\obj\Debug\oop 3_Q1) List.exe
+C:\Users\PC\source\repos\oop 3_Q1) List\oop 3_Q1) List\obj\Debug\oop 3_Q1) List.pdb
